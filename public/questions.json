@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Welcher Wert fehlt? Leistung, Respekt, Vertrauen, Bodenständigkeit und …?",
+        "A": "Verbundenheit",
+        "B": "Freiheit",
+        "C": "Zusammenhalt",
+        "D": "Innovation",
+        "answer": "A",
+        "category": "Verbundenheit"
+    },
+    {
+        "question": "Welcher Wert fehlt? Respekt, Vertrauen, Bodenständigkeit, Verbundenheit und …?",
+        "A": "Leistung",
+        "B": "Transparenz",
+        "C": "Vielfalt",
+        "D": "Kooperation",
+        "answer": "A",
+        "category": "Leistung"
+    },
+    {
+        "question": "Welcher Wert fehlt? Vertrauen, Bodenständigkeit, Verbundenheit, Leistung und …?",
+        "A": "Respekt",
+        "B": "Ehrlichkeit",
+        "C": "Effizienz",
+        "D": "Engagement",
+        "answer": "A",
+        "category": "Respekt"
+    },
+    {
+        "question": "Welcher Wert fehlt? Bodenständigkeit, Verbundenheit, Leistung, Respekt und …?",
+        "A": "Vertrauen",
+        "B": "Flexibilität",
+        "C": "Stabilität",
+        "D": "Glaubwürdigkeit",
+        "answer": "A",
+        "category": "Vertrauen"
+    },
+    {
+        "question": "Welcher Wert fehlt? Verbundenheit, Leistung, Respekt, Vertrauen und …?",
+        "A": "Bodenständigkeit",
+        "B": "Professionalität",
+        "C": "Klarheit",
+        "D": "Pünktlichkeit",
+        "answer": "A",
+        "category": "Bodenständigkeit"
+    },
+    {
+        "question": "Dieser Wert symbolisiert Zusammenhalt und Loyalität. Er beschreibt, dass ein „Wir“ stärker ist als viele „Ichs“.",
+        "A": "Solidarität",
+        "B": "Verbundenheit",
+        "C": "Engagement",
+        "D": "Integrität",
+        "answer": "B",
+        "category": "Verbundenheit"
+    },
+    {
+        "question": "Dieser Wert ist Kern unseres Handels. Er impliziert, dass wir uns persönlich und als Team anspruchsvolle Ziele setzen.",
+        "A": "Beständigkeit",
+        "B": "Leistung",
+        "C": "Kreativität",
+        "D": "Effizienz",
+        "answer": "B",
+        "category": "Leistung"
+    },
+    {
+        "question": "Dieser Wert basiert darauf, dass wir miteinander und nicht übereinander sprechen. Zudem setzen wir uns für gleiche Chancen ein.",
+        "A": "Fairness",
+        "B": "Respekt",
+        "C": "Akzeptanz",
+        "D": "Offenheit",
+        "answer": "B",
+        "category": "Respekt"
+    },
+    {
+        "question": "Dieser Wert ist ein wesentlicher Grundpfeiler unseres Erfolgs und unserer Stabilität. Er erinnert uns daran, wie wichtig es ist, einander auf Augenhöhe zu begegnen.",
+        "A": "Würde",
+        "B": "Authentizität",
+        "C": "Resilienz",
+        "D": "Bodenständigkeit",
+        "answer": "D",
+        "category": "Bodenständigkeit"
+    },
+    {
+        "question": "Dieser Wert unterstreicht, dass wir einander und aneinander glauben. Dabei ist unsere Kommunikation offen sowie ehrlich und wir können uns aufeinander verlassen.",
+        "A": "Loyalität",
+        "B": "Zuverlässigkeit",
+        "C": "Vertrauen",
+        "D": "Transparenz",
+        "answer": "C",
+        "category": "Vertrauen"
+    },
+    {
+        "question": "Welcher Wert ist nicht Teil unserer Werteblüte?",
+        "A": "Leistung",
+        "B": "Bodenständigkeit",
+        "C": "Begeisterung",
+        "D": "Respekt",
+        "answer": "C",
+        "category": "Random"
+    },
+    {
+        "question": "Welcher Wert ist nicht Teil unserer Werteblüte?",
+        "A": "Bodenständigkeit",
+        "B": "Enkelfähigkeit",
+        "C": "Respekt",
+        "D": "Leistung",
+        "answer": "B",
+        "category": "Random"
+    },
+    {
+        "question": "Welcher Wert ist nicht Teil unserer Werteblüte?",
+        "A": "Leistung",
+        "B": "Respekt",
+        "C": "Vertrauen",
+        "D": "Zusammenhalt",
+        "answer": "D",
+        "category": "Random"
+    },
+    {
+        "question": "Welcher Wert ist nicht Teil unserer Werteblüte?",
+        "A": "Verbundenheit",
+        "B": "Vertrauen ",
+        "C": "Respekt",
+        "D": "Entschlossenheit",
+        "answer": "D",
+        "category": "Random"
+    },
+    {
+        "question": "#ValueHero zu sein, bedeutet die Werte heldenhafter zu leben als andere.",
+        "A": "Ja",
+        "B": "Nein",
+        "C": "Vielleicht",
+        "D": "Selten",
+        "answer": "B",
+        "category": "Random"
+    }
+]
