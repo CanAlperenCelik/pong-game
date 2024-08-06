@@ -17,7 +17,7 @@ const JoinGame: React.FC = () => {
     if (playerName && sessionId) {
       try {
         await axios.post(
-          `https://localhost:7144/api/Player/JoinRoom ${sessionId}`,
+          `https://localhost:7144/api/Player/JoinRoom/${sessionId}`,
           { playername: playerName }
         );
         setJoined(true); // Set player as joined
@@ -36,7 +36,7 @@ const JoinGame: React.FC = () => {
     const intervalId = setInterval(async () => {
       try {
         const response = await axios.get(
-          `https://localhost:7144/Session/GetSessionById?sessionId=${sessionId}`
+          `https://localhost:7144/Session/GetSessionById/${sessionId}`
         );
         const isGameStarted = response.data.isGameStarted;
 
